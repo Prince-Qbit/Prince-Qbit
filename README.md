@@ -42,33 +42,44 @@ const qbit = {
 
 ---
 ### 🛠 Tools  
-<p align="center">
-  <!-- Programming Languages -->
+<p align="left">
+  <!-- Languages -->
 <b>💻 Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" /><br/><br/>
 
 <!-- Frameworks & Libraries -->
 <b>🌐 Frameworks & Libraries</b><br/>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite" />
 
 ---
-### 🤖 AI & Data
+<!-- AI & Data -->
+### <b>🤖 AI & Data</b><br/>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
 
 ---
-### ☁️ Cloud & IoT
+<!-- Cloud & IoT -->
+### <b>☁️ Cloud & IoT</b></br>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,arduino,raspberrypi,linux,grafana" />
 
 ---
-### 🗄️ Databases
+<!-- Databases -->
+### <b>🗄️ Databases</b></br>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 
 ---
-### 🧰 Tools
+<!-- Tools -->
+### <b>🧰 Tools</b></br>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel" />
 
 ---
-### ⚛️ Quantum
+<!-- Quantum -->
+### <b>⚛️ Quantum</b></br>
+<p align="left">
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Amazon_Braket-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
