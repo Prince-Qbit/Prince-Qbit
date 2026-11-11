@@ -1,4 +1,4 @@
-👋 Hi, I'm Prince 
+<!-- 👋 Hi, I'm Prince  -->
 🚀 Student Developer | AI & Quantum Explorer  
 
 <p align="center">
@@ -45,6 +45,7 @@ const qbit = {
 <p align="left">
   <!-- Languages -->
 <b>💻 Languages</b><br/>
+<p align= "left">
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" /><br/><br/>
 
 <!-- Frameworks & Libraries -->
@@ -88,59 +89,67 @@ const qbit = {
 
 ---
 
-> [!NOTE]  
+<!-- NOTE -->
+> <b>[!NOTE]</b></br>  
 > 📝 The icons above showcase the languages, frameworks, tools, and platforms I've worked with and am actively exploring, from low-level languages like **C/C++**, to web technologies like **HTML, CSS, JavaScript, PHP, React, Node.js**, to **Python** for AI and quantum computing with **TensorFlow** and **Qiskit**. They also cover databases (**MySQL, SQLite, MongoDB**), cloud and IoT tools (**AWS, Arduino, Raspberry Pi**), and operating systems (**Linux distros, Windows**).  
 > 🚀 They represent my academic background, personal projects like **StockPilot** and **QuantaFlood**, and the technologies I'm still learning, including **Quantum Computing (QFT)**, **AWS Cloud**, and **IoT & Edge Computing**.
 
 
 ---
-
+<!-- Projects -->
 <p align="center">
   <img src="assets/projects.png" alt="Projects" width="60%" />
 </p>
 
-## 🚀 What I'm Working On
+## <b>🚀 What I'm Working On</b></br>
 
 | Project | Description | Status |
 |--------|-------------|--------|
 | 📦 **[StockPilot](https://github.com/Prince-Qbit/INVENTORY-MANAGEMENT-SYSTEM-.git)** | Inventory management system for tracking stock, sales & suppliers | 🟢 Active |
 | 🌊 **[QuantaFlood](https://github.com/Prince-Qbit/QuantaFlood-.git)** | Quantum-assisted flood detection system using IoT, edge computing & AI | 🟡 Research |
  
-
-
-## 📊 GitHub Stats
  
 ---
-
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+## <b>📊 GitHub Stats</b></br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prince-Qbit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="Prince-Qbit's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Qbit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=C9D1D9" alt="Top Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Prince-Qbit&rank_icon=github&custom_title=Prince-Qbit%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prince-Qbit&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=E91E63&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
+</div>
+<div align="center">
+<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Prince-Qbit&theme=chartreuse-dark" alt="GitHub Streak" />
+</a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&area_color=E91E63&hide_border=true&title_color=E91E63" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/Prince-Qbit/github-readme-activity-graph" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prince-Qbit&label=Profile+Views&color=E91E63&style=for-the-badge" alt="Profile Views" />
 </p>
 
-> [!NOTE]  
+
+---
+<!-- NOTE -->
+> <b>[!NOTE]</b></br> 
 > 📈 These stats reflect my journey as a student developer, from web projects like **StockPilot** to research in **AI, Quantum Computing, and IoT** with **QuantaFlood**. Expect more **Python**, **JavaScript**, and cloud-focused commits as I keep learning.---
  
-## 🏆 GitHub Trophies
+
+---
+<!-- GitHub Trophies -->
+## <b>🏆 GitHub Trophies</b></br>
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince-Qbit&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="Prince-Qbit's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince-Qbit) (https://github.com/Prince-Qbit/github-profile-trophy" />
 </div>
 
-## 📌 Profile Insights
+
+---
+<!-- Profile Insights -->
+## <b>📌 Profile Insights</b></br>
  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Qbit&theme=radical" width="60%" alt="Prince-Qbit Profile Details" />
@@ -150,9 +159,11 @@ const qbit = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Qbit&theme=radical" height="120" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Qbit&theme=radical&utcOffset=0" height="120" alt="Productive Time" />
 </div>
----
 
-### 📈 Contribution Activity  
+
+---
+<!-- Contribution Activity -->
+### <b>📈 Contribution Activity</b></br>
 
 <p align="center">
   <!-- Activity Graph - Using ashutosh00710's repo -->
@@ -161,17 +172,17 @@ const qbit = {
 </p>
 
 
-<!--
-### 🧩 LeetCode Stats  
+---
+<!-- LeetCode Stats -->
+### <b>🧩 LeetCode Stats</b></br> 
 <p align="left">
-  <img src=![LeetCode Stats](https://leetcard.jacoblin.cool/PrinceQbit?theme=wtf&font=Lora&ext=heatmap) height="200"/> <!-- line 4: replace YOUR-LEETCODE-USERNAME with your handle -->
+  <img src="https://leetcard.jacoblin.cool/PrinceQbit?theme=wtf&font=Lora&ext=heatmap" height="200" />
 </p>
 -->
 
+
 ---
-
 <!-- Contributions 3D GitHub -->
-
 
 <!-- Snake Animation con enlace a Platane/snk -->
 <picture>
@@ -183,6 +194,7 @@ const qbit = {
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
+---
 <!-- Visitor Counter -->
 <p align="center">
   <a href="https://count.getloli.com/" target="_blank">
@@ -197,3 +209,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <!-- <a href="https://x.com/Prince_Qbit" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a> <!-- placeholder -->
   <a href="mailto:quofiobrien007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a> <!-- placeholder -->
 </p>
+
