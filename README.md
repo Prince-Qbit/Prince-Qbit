@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lora+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&center=true&vCenter=true&width=700&height=40&lines=Student+Developer;AI+%26+Quantum+Explorer;Building+StockPilot+%26+QuantaFlood;Learning+AWS%2C+IoT+%26+Edge+Computing;Open-Source+Collaborator;Turning+%22I+don%27t+know%22+into+%22Let%27s+build+it%22" alt="Typing Animation" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
  
 ```typescripthy
@@ -44,12 +46,11 @@ const qbit = {
 ### 🛠 Tools  
 <p align="center">
   <!-- Programming Languages -->
-  <div align="center">
+<b>💻 Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" /><br/><br/>
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" />
-
-### 🌐 Frameworks & Libraries
+<!-- Frameworks & Libraries -->
+<b>🌐 Frameworks & Libraries</b><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite" />
 
 ### 🤖 AI & Data
@@ -69,7 +70,6 @@ const qbit = {
 <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Amazon_Braket-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-</div>
 </p>
 
 ---
