@@ -2,7 +2,7 @@
 🚀 Student Developer | AI & Quantum Explorer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&center=true&vCenter=true&width=700&height=40&lines=Student+Developer;AI+%26+Quantum+Explorer;Building+StockPilot+%26+QuantaFlood;Learning+AWS%2C+IoT+%26+Edge+Computing;Open-Source+Collaborator;Turning+%22I+don%27t+know%22+into+%22Let%27s+build+it%22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&center=true&vCenter=true&width=700&height=40&lines=Student+Developer;AI+%26+Quantum+Explorer;Building+StockPilot+%26+QuantaFlood;Learning+AWS%2C+IoT+%26+Edge+Computing;Open-Source+Collaborator;Turning+%22I+don%27t+know%22+into+%22Let%27s+build+it%22" alt="Typing Animation" />
 </p>
 
 ## 👨‍💻 About Me
@@ -35,7 +35,8 @@ const qbit = {
   funFact: "Turning 'I don't know how it works' into 'Let's build it and find out' on a weekly basis.",
   
   contact: "quofiobrien007@gmail.com",
-};```
+};
+```
 
 
 ---
