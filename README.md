@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
  
 ```typescripthy
@@ -42,7 +41,6 @@ const qbit = {
 
 
 ---
-
 ### 🛠 Tools  
 <p align="center">
   <!-- Programming Languages -->
@@ -53,18 +51,23 @@ const qbit = {
 <b>🌐 Frameworks & Libraries</b><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite" />
 
+---
 ### 🤖 AI & Data
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
 
+---
 ### ☁️ Cloud & IoT
 <img src="https://skillicons.dev/icons?i=aws,docker,arduino,raspberrypi,linux,grafana" />
 
+---
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 
+---
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel" />
 
+---
 ### ⚛️ Quantum
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge" />
