@@ -64,7 +64,7 @@ const qbit = {
 ---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&perline=3" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
 
 
 <!-- Cloud & IoT -->
@@ -91,7 +91,6 @@ const qbit = {
 ---
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,bash&perline=4" />
-<img src="https://img.shields.io/badge/Git_Bash-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
 
 
 <!-- Quantum -->
