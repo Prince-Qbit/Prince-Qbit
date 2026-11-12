@@ -8,7 +8,7 @@
 </p>
 
 ---
-## 👨‍💻 ABOUT ME
+## 👨‍💻 INIT SEQUENCE
  
 ```typescripthy
 const qbit = {
@@ -56,7 +56,7 @@ const qbit = {
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite" />
 
----
+
 <!-- AI & Data -->
 ---
 ### <b>🤖 AI & DATA</b><br/>
@@ -65,21 +65,25 @@ const qbit = {
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
 
----
+
 <!-- Cloud & IoT -->
-### <b>☁️ Cloud & IoT</b></br>
+---
+### <b>☁️ CLOUD & IoT</b></br>
+---
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,arduino,raspberrypi,linux,grafana" />
 
----
+  
 <!-- Databases -->
 ---
 ### <b>🗄️ DATABASES</b></br>
 ---
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 
----
+
 <!-- Tools -->
 ---
 ### <b>🧰 TOOLS</b></br>
@@ -87,7 +91,7 @@ const qbit = {
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,gitbash,githubactions,vscode,postman,figma,vercel" />
 
----
+
 <!-- Quantum -->
 ---
 ### <b>⚛️ QUANTUM</b></br>
@@ -114,6 +118,7 @@ const qbit = {
   <img src="assets/projects.png" alt="Projects" width="60%" />
 </p>
 
+
 ---
 ## <b>🚀 IN THE LAB</b></br>
 ---
@@ -124,7 +129,6 @@ const qbit = {
 | 🌊 **[QuantaFlood](https://github.com/Prince-Qbit/QuantaFlood-.git)** | Quantum-assisted flood detection system using IoT, edge computing & AI | 🟡 Research |
  
  
----
 <!-- GitHub Stats -->
 ---
 ## <b>📊 GITHUB STATS</b></br>
@@ -155,7 +159,6 @@ const qbit = {
 > 📈 These stats reflect my journey as a student developer, from web projects like **StockPilot** to research in **AI, Quantum Computing, and IoT** with **QuantaFlood**. Expect more **Python**, **JavaScript**, and cloud-focused commits as I keep learning.---
  
 
----
 <!-- GitHub Trophies -->
 ---
 ## <b>🏆 GITHUB TROPHIES</b></br>
@@ -166,7 +169,6 @@ const qbit = {
 </div>
 
 
----
 <!-- Profile Insights -->
 ---
 ## <b>📌 PROFILE INSIGHTS</b></br>
@@ -182,10 +184,9 @@ const qbit = {
 </div>
 
 
----
 <!-- Contribution Activity -->
 ---
-### <b>📈 CONTRIBUTION ACTIVITY</b></br>
+### <b>📈 CONTRIBUTION GRAPH</b></br>
 ---
 
 <p align="center">
@@ -195,7 +196,6 @@ const qbit = {
 </p>
 
 
----
 <!-- LeetCode Stats -->
 ---
 ### <b>🧩 LEETCODE STATS</b></br> 
