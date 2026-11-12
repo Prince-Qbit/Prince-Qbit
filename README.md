@@ -49,12 +49,13 @@ const qbit = {
   <!-- Languages -->
 <b>💻 Languages</b><br/>
 <p align= "left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash&perline=4" /><br/><br/>
+
 
 <!-- Frameworks & Libraries -->
 <b>🌐 Frameworks & Libraries</b><br/>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,vite&perline=4" />
 
 
 <!-- AI & Data -->
@@ -63,7 +64,7 @@ const qbit = {
 ---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&perline=3" />
 
 
 <!-- Cloud & IoT -->
@@ -72,7 +73,7 @@ const qbit = {
 ---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,arduino,raspberrypi,linux,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,docker,arduino,raspberrypi,linux,grafana&perline=3" />
 
   
 <!-- Databases -->
@@ -81,7 +82,7 @@ const qbit = {
 ---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis&perline=4" />
 
 
 <!-- Tools -->
@@ -89,7 +90,8 @@ const qbit = {
 ### <b>🧰 TOOLS</b></br>
 ---
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitbash,githubactions,vscode,postman,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,bash&perline=4" />
+<img src="https://img.shields.io/badge/Git_Bash-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
 
 
 <!-- Quantum -->
