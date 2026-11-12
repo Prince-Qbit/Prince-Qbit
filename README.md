@@ -89,6 +89,7 @@ const qbit = {
 ---
 ### <b>🧰 TOOLS</b></br>
 ---
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,bash&perline=4" />
 
@@ -105,8 +106,8 @@ const qbit = {
 
 </p>
 
----
 
+---
 <!-- NOTE -->
 > <b>[!NOTE]</b></br>  
 > 📝 The icons above showcase the languages, frameworks, tools, and platforms I've worked with and am actively exploring, from low-level languages like **C/C++**, to web technologies like **HTML, CSS, JavaScript, PHP, React, Node.js**, to **Python** for AI and quantum computing with **TensorFlow** and **Qiskit**. They also cover databases (**MySQL, SQLite, MongoDB**), cloud and IoT tools (**AWS, Arduino, Raspberry Pi**), and operating systems (**Linux distros, Windows**).  
@@ -123,7 +124,6 @@ const qbit = {
 ---
 ## <b>🚀 IN THE LAB</b></br>
 ---
-
 | Project | Description | Status |
 |--------|-------------|--------|
 | 📦 **[StockPilot](https://github.com/Prince-Qbit/INVENTORY-MANAGEMENT-SYSTEM-.git)** | Inventory management system for tracking stock, sales & suppliers | 🟢 Active |
@@ -160,7 +160,6 @@ const qbit = {
 > 📈 These stats reflect my journey as a student developer, from web projects like **StockPilot** to research in **AI, Quantum Computing, and IoT** with **QuantaFlood**. Expect more **Python**, **JavaScript**, and cloud-focused commits as I keep learning.---
  
 
-<!-- GitHub Trophies -->
 ---
 ## <b>🏆 GITHUB TROPHIES</b></br>
 ---
@@ -170,7 +169,6 @@ const qbit = {
 </div>
 
 
-<!-- Profile Insights -->
 ---
 ## <b>📌 PROFILE INSIGHTS</b></br>
 ---
@@ -185,7 +183,6 @@ const qbit = {
 </div>
 
 
-<!-- Contribution Activity -->
 ---
 ### <b>📈 CONTRIBUTION GRAPH</b></br>
 ---
@@ -197,15 +194,13 @@ const qbit = {
 </p>
 
 
-<!-- LeetCode Stats -->
 ---
 ### <b>🧩 LEETCODE STATS</b></br> 
 ---
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/PrinceQbit?theme=wtf&font=Lora&ext=heatmap" height="200" />
+  <img src="https://leetcard.jacoblin.cool/PrinceQbit?theme=wtf&font=Lora&ext=heatmap" height="400" width="400 />
 </p>
--->
 
 
 ---
