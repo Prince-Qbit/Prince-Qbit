@@ -1,3 +1,4 @@
+---
 👋 Hi, I'm Prince
 </br>
 🚀 Student Developer | AI & Quantum Explorer  
