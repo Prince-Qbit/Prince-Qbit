@@ -205,6 +205,7 @@ const qbit = {
 
 ---
 <!-- Contributions 3D GitHub -->
+</br>
 
 <!-- Snake Animation con enlace a Platane/snk -->
 <picture>
