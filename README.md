@@ -8,7 +8,7 @@
 </p>
 
 ---
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
  
 ```typescripthy
 const qbit = {
@@ -43,7 +43,7 @@ const qbit = {
 
 
 ---
-### 🛠 Tools 
+### 🛠 TOOLS
 ---
 <p align="left">
   <!-- Languages -->
@@ -58,7 +58,10 @@ const qbit = {
 
 ---
 <!-- AI & Data -->
-### <b>🤖 AI & Data</b><br/>
+---
+### <b>🤖 AI & DATA</b><br/>
+---
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" />
 
@@ -70,19 +73,26 @@ const qbit = {
 
 ---
 <!-- Databases -->
-### <b>🗄️ Databases</b></br>
+---
+### <b>🗄️ DATABASES</b></br>
+---
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 
 ---
 <!-- Tools -->
-### <b>🧰 Tools</b></br>
+---
+### <b>🧰 TOOLS</b></br>
+---
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,gitbash,githubactions,vscode,postman,figma,vercel" />
 
 ---
 <!-- Quantum -->
-### <b>⚛️ Quantum</b></br>
+---
+### <b>⚛️ QUANTUM</b></br>
+---
+
 <p align="left">
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge" />
@@ -105,7 +115,7 @@ const qbit = {
 </p>
 
 ---
-## <b>🚀 What I'm Working On</b></br>
+## <b>🚀 IN THE LAB</b></br>
 ---
 
 | Project | Description | Status |
@@ -117,7 +127,7 @@ const qbit = {
 ---
 <!-- GitHub Stats -->
 ---
-## <b>📊 GitHub Stats</b></br>
+## <b>📊 GITHUB STATS</b></br>
 ---
 
 <p align="center">
@@ -147,8 +157,10 @@ const qbit = {
 
 ---
 <!-- GitHub Trophies -->
-## <b>🏆 GitHub Trophies</b></br>
- 
+---
+## <b>🏆 GITHUB TROPHIES</b></br>
+---
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prince-Qbit) (https://github.com/Prince-Qbit/github-profile-trophy" />
 </div>
@@ -157,7 +169,7 @@ const qbit = {
 ---
 <!-- Profile Insights -->
 ---
-## <b>📌 Profile Insights</b></br>
+## <b>📌 PROFILE INSIGHTS</b></br>
 ---
  
 <div align="center">
@@ -173,7 +185,7 @@ const qbit = {
 ---
 <!-- Contribution Activity -->
 ---
-### <b>📈 Contribution Activity</b></br>
+### <b>📈 CONTRIBUTION ACTIVITY</b></br>
 ---
 
 <p align="center">
@@ -186,7 +198,7 @@ const qbit = {
 ---
 <!-- LeetCode Stats -->
 ---
-### <b>🧩 LeetCode Stats</b></br> 
+### <b>🧩 LEETCODE STATS</b></br> 
 ---
 
 <p align="left">
@@ -218,12 +230,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 ---
-### 🤝 Connect with Me  
+### 🤝 LET'S CONNECT  
 ---
 
 <p align="left">
   <a href="https://www.linkedin.com/in/princeqbit" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a> <!-- placeholder -->
-  <!-- <a href="https://x.com/Prince_Qbit" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a> <!-- placeholder -->
-  <a href="mailto:quofiobrien007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a> <!-- placeholder -->
+  <a href="https://x.com/Prince_Qbit" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a> 
+  <a href="mailto:quofiobrien007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a> 
 </p>
 
