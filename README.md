@@ -43,7 +43,8 @@ const qbit = {
 
 
 ---
-### 🛠 Tools  
+### 🛠 Tools 
+---
 <p align="left">
   <!-- Languages -->
 <b>💻 Languages</b><br/>
@@ -103,7 +104,9 @@ const qbit = {
   <img src="assets/projects.png" alt="Projects" width="60%" />
 </p>
 
+---
 ## <b>🚀 What I'm Working On</b></br>
+---
 
 | Project | Description | Status |
 |--------|-------------|--------|
@@ -113,7 +116,9 @@ const qbit = {
  
 ---
 <!-- GitHub Stats -->
+---
 ## <b>📊 GitHub Stats</b></br>
+---
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=Prince-Qbit&rank_icon=github&custom_title=Prince-Qbit%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark" height="180" />
@@ -151,7 +156,9 @@ const qbit = {
 
 ---
 <!-- Profile Insights -->
+---
 ## <b>📌 Profile Insights</b></br>
+---
  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Qbit&theme=radical" width="60%" alt="Prince-Qbit Profile Details" />
@@ -165,7 +172,9 @@ const qbit = {
 
 ---
 <!-- Contribution Activity -->
+---
 ### <b>📈 Contribution Activity</b></br>
+---
 
 <p align="center">
   <!-- Activity Graph - Using ashutosh00710's repo -->
@@ -176,7 +185,10 @@ const qbit = {
 
 ---
 <!-- LeetCode Stats -->
+---
 ### <b>🧩 LeetCode Stats</b></br> 
+---
+
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/PrinceQbit?theme=wtf&font=Lora&ext=heatmap" height="200" />
 </p>
@@ -205,7 +217,10 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 </p>
 
 
+---
 ### 🤝 Connect with Me  
+---
+
 <p align="left">
   <a href="https://www.linkedin.com/in/princeqbit" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a> <!-- placeholder -->
   <!-- <a href="https://x.com/Prince_Qbit" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a> <!-- placeholder -->
