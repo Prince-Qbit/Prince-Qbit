@@ -1,4 +1,6 @@
-<!-- 👋 Hi, I'm Prince  -->
+<!-- Bio -->
+---
+👋 Hi, I'm Prince
 🚀 Student Developer | AI & Quantum Explorer  
 
 <p align="center">
