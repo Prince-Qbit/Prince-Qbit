@@ -146,10 +146,6 @@ const qbit = {
 </div>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/Prince-Qbit/github-readme-activity-graph" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prince-Qbit&label=Profile+Views&color=E91E63&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -189,7 +185,9 @@ const qbit = {
 
 <p align="center">
   <!-- Activity Graph - Using ashutosh00710's repo -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=141321&color=eb1f6a&line=f97316&point=ffffff&area=true&hide_border=true" width="95%" alt="Prince-Qbit's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/Prince-Qbit/github-readme-activity-graph" />
+</p>
+
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&theme=react-dark&hide_border=true&area=true" width="95%"/> -->
 </p>
 
