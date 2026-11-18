@@ -153,7 +153,7 @@ const qbit = {
 ---
 <!-- NOTE -->
 > <b>[!NOTE]</b></br> 
-> 📈 These stats reflect my journey as a student developer, from web projects like **StockPilot** to research in **AI, Quantum Computing, and IoT** with **QuantaFlood**. Expect more **Python**, **JavaScript**, and cloud-focused commits as I keep learning.---
+> 📈 These stats reflect my journey as a student developer, from web projects like **StockPilot** to research in **AI, Quantum Computing, and IoT** with **QuantaFlood**. Expect more **Python**, **JavaScript**, and cloud-focused commits as I keep learning.
  
 
 ---
@@ -186,9 +186,6 @@ const qbit = {
 <p align="center">
   <!-- Activity Graph - Using ashutosh00710's repo -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/Prince-Qbit/github-readme-activity-graph" />
-</p>
-
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Qbit&theme=react-dark&hide_border=true&area=true" width="95%"/> -->
 </p>
 
 
